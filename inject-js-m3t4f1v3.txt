@@ -1,4 +1,0 @@
-// inject-js-m3t4f1v3.js
-(function() {
-    eval('{{1}}');
-})();
